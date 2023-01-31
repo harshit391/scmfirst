@@ -7,7 +7,7 @@ int main()
     printf("Enter no. 2: ");scanf("%f",&b);
     int g;
     g = (a>b?1:0);
-    if (g==0) printf("b is greatest ");
-    else printf("a is greatest");
+    if (g==0) printf("b is greatest of all time");
+    else printf("a is greatest of all time");
     return 0;
 }
